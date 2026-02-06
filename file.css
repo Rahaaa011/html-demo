@@ -1,3 +1,8 @@
 table{
     border: solid 2px black;
 }
+.doctor{
+    background-color: aqua;
+    font-size: medium;
+    padding:12px ;
+}
