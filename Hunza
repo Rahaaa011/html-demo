@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <link rel="stylesheet" href="style.css" class="href">
+
+    <meta charset="UTF-8">
+
+    <title>Hunza Tourism</title>
+
+</head>
+
+<body>
+
+    
+    <header>
+        <h1 align="center">Welcome to Hunza Valley</h1>
+        <p align="center">The Heaven on Earth</p>
+
+        <hr>
+
+      
+        <nav align="center">
+
+            <a href="#home">Home</a> |
+            <a href="#about">About</a> |
+            <a href="#places">Places</a> |
+            <a href="#activities">Activities</a> |
+            <a href="#gallery">Gallery</a> |
+            <a href="#hotels">Hotels</a> |
+            <a href="#contact">Contact</a>
+
+        </nav>
+
+        <hr>
+
+    </header>
+
+    <!-- Home Section -->
+
+    <section id="home">
+
+        <img src="https://tse2.mm.bing.net/th/id/OIP.KKxe3JhcKbT4VreaaRF1CgHaFj?r=0&pid=Api&h=220&P=0">
+        <h2>Discover Hunza</h2>
+
+        <p>
+            Hunza Valley is one of the most beautiful tourist destinations in
+            Gilgit-Baltistan, Pakistan. It is famous for breathtaking mountains,
+            crystal-clear lakes, historical forts, and friendly local people.
+        </p>
+
+    </section>
+
+    <hr>
+
+    <!-- About -->
+    <section id="about">
+
+        <h2>About Hunza</h2>
+
+        <p>
+
+            Hunza is located in the northern region of Pakistan.
+            It is surrounded by the Karakoram mountain range and attracts
+            thousands of tourists every year.
+
+        </p>
+
+        <ul>
+            <li>Beautiful Mountains</li>
+            <li>Rich Culture</li>
+            <li>Peaceful Environment</li>
+            <li>Friendly People</li>
+            <li>Historical Places</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <!-- Tourist Places -->
+    <section id="places">
+
+        <h2>Popular Tourist Places</h2>
+
+        <table border="1" cellpadding="10">
+
+            <tr>
+                <th>Place</th>
+                <th>Description</th>
+            </tr>
+
+            <tr>
+                <td>Attabad Lake</td>
+                <td>Beautiful blue lake famous for boating.</td>
+            </tr>
+
+            <tr>
+                <td>Baltit Fort</td>
+                <td>Historic fort over 700 years old.</td>
+            </tr>
+
+            <tr>
+                <td>Altit Fort</td>
+                <td>Ancient fort with amazing architecture.</td>
+            </tr>
+
+            <tr>
+                <td>Passu Cones</td>
+                <td>World-famous mountain peaks.</td>
+            </tr>
+
+            <tr>
+                <td>Khunjerab Pass</td>
+                <td>Highest paved international border.</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+
+    <section id="activities">
+
+        <h2>Things To Do</h2>
+
+        <ol>
+
+            <li>Boating</li>
+            <li>Camping</li>
+            <li>Mountain Hiking</li>
+            <li>Photography</li>
+            <li>Jeep Safari</li>
+            <li>Shopping</li>
+
+        </ol>
+
+    </section>
+
+    <hr>
+
+  
+    <section id="gallery">
+
+        <h2>Gallery</h2>
+
+<img src="https://www.worldatlas.com/upload/bd/e1/41/shutterstock-6524578571.jpg" width="300" alt="Attabad Lake">
+<img src="https://tse3.mm.bing.net/th/id/OIP.wZjtJe92BaXZjNZocYlpBQHaEh?r=0&pid=Api&h=220&P=0">
+<img src=" https://tse1.mm.bing.net/th/id/OIP.hZl29iziEKYJiskOaDcr8wHaFj?r=0&pid=Api&h=220&P=0" width="300" alt="Passu Cones">
+    
+
+    </section>
+
+    <hr>
+
+   
+    <section id="hotels">
+
+        <h2>Hotels in Hunza</h2>
+
+        <table border="1" cellpadding="10">
+
+            <tr>
+                <th>Hotel</th>
+                <th>Rating</th>
+            </tr>
+
+            <tr>
+                <td>Serena Hunza</td>
+                <td>★★★★★</td>
+            </tr>
+
+            <tr>
+                <td>Luxus Hunza</td>
+                <td>★★★★☆</td>
+            </tr>
+
+            <tr>
+                <td>Eagle Nest Hotel</td>
+                <td>★★★★☆</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <h2>Tour Packages</h2>
+
+        <h3>3 Days Package</h3>
+
+        <ul>
+            <li>Attabad Lake</li>
+            <li>Baltit Fort</li>
+            <li>Altit Fort</li>
+            <li>Hotel Included</li>
+        </ul>
+
+        <h3>5 Days Package</h3>
+
+        <ul>
+            <li>Khunjerab Pass</li>
+            <li>Passu Cones</li>
+            <li>Hussaini Bridge</li>
+            <li>Luxury Hotel</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+ 
+    <section id="contact">
+
+        <h2>Contact Us</h2>
+
+        <form>
+
+            Name <br>
+            <input type="text"><br><br>
+
+            Email <br>
+            <input type="email"><br><br>
+
+            Phone <br>
+            <input type="tel"><br><br>
+
+            Message <br>
+            <textarea rows="5" cols="40"></textarea>
+
+            <br><br>
+
+            <input type="submit" value="Send">
+
+        </form>
+
+    </section>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer align="center">
+
+        <p>
+            © 2026 Hunza Tourism Website <br>
+            Explore the Beauty of Northern Pakistan
+        </p>
+
+    </footer>
+
+</body>
+</html>
